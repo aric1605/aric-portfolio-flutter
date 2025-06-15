@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/your-username/your-repo/blob/main/assets/banner.png" alt="Portfolio Banner" width="60%" />
+  <img src="https://github.com/aric1605/aric-portfolio-flutter/blob/main/my_3d_avatar.png" alt="Portfolio Banner" width="300" />
   <h1>My Portfolio 🌐</h1>
   <p><strong>Explore my world — Skills, Projects, and Passion in one place.</strong></p>
   <br />
@@ -32,15 +32,15 @@
 ## 🤝 Contributing
 
 **Have ideas to improve this? Feel free to contribute!**
-# Fork it
-# Create your branch
-git checkout -b feature/amazing-feature
+- Fork it
+- Create your branch
+- - git checkout -b feature/amazing-feature
 
-# Commit your changes
-git commit -m 'Add amazing feature'
+- Commit your changes
+- - git commit -m 'Add amazing feature'
 
-# Push and raise PR
-git push origin feature/amazing-feature
+- Push and raise PR
+- - git push origin feature/amazing-feature
 
 ---
 
