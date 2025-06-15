@@ -5,8 +5,6 @@
   <br />
   <p>
     <a href="https://aric-portfolio.web.app/"><img alt="Live Site" src="https://img.shields.io/badge/Visit-Live--Site-brightgreen?style=for-the-badge&logo=vercel"></a>
-    <a href="https://github.com/aric1605/aric-portfolio-flutter"><img alt="GitHub stars" src="https://img.shields.io/github/stars/your-username/your-repo?style=social"></a>
-    <a href="https://github.com/aric1605/aric-portfolio-flutter/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/your-username/your-repo?color=blue"></a>
   </p>
 </div>
 
